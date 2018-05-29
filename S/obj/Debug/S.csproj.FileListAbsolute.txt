@@ -1,0 +1,6 @@
+c:\users\mary\documents\visual studio 2017\Projects\S\S\bin\Debug\S.dll.config
+c:\users\mary\documents\visual studio 2017\Projects\S\S\bin\Debug\S.dll
+c:\users\mary\documents\visual studio 2017\Projects\S\S\bin\Debug\S.pdb
+c:\users\mary\documents\visual studio 2017\Projects\S\S\obj\Debug\S.csprojResolveAssemblyReference.cache
+c:\users\mary\documents\visual studio 2017\Projects\S\S\obj\Debug\S.dll
+c:\users\mary\documents\visual studio 2017\Projects\S\S\obj\Debug\S.pdb
